@@ -1,0 +1,35 @@
+body {
+  background-color: steelblue;
+}
+h1 {
+  color: midnightblue;
+}
+
+h1 {
+  font-family: Marker Felt, cursive;
+}
+
+h2 {
+  color: darkslateblue;
+}
+
+h2 {
+  font-family: Marker Felt, cursive;
+}
+
+h2 {
+  color: dodgerblue;
+}
+
+h2 {
+ font-family: Marker Felt, cursive;
+}
+
+p {
+  color: black;
+}
+
+div{
+	background-color: powderblue;
+	color: black;
+}
